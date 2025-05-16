@@ -1,0 +1,44 @@
+﻿id,lan_key,lan_ko,lan_en,lan_cn
+100000,language,한국어,English,中文
+100010,title_decs,버튼을 누르면 시작합니다.,Press Button To Start,请按按钮开始游戏
+100100,lobby_play,플레이,Play,开始
+100101,lobby_play_stage,스테이지,Stage,关卡
+100102,lobby_play_song_title,제목,Song Title,歌名
+100103,lobby_play_artist_name,작곡가,Composer,编曲家
+100104,lobby_play_bpm,음악 빠르기,BPM,拍子数
+100105,lobby_play_difficulty,난이도,Difficulty,难度
+100106,lobby_play_start,게임 시작,Start,开始游戏
+100107,lobby_play_rank,리더보드,Leaderboards,排行榜
+100200,lobby_setting,설정,Setting,设置
+100201,lobby_setting_sound,소리,Sound,声音
+100202,lobby_setting_sound_bmg,배경음악,Background Music,背景音乐
+100203,lobby_setting_sound_bmg_volume,배경음악 크기 조절,Change The BGM Volume,调整背景音乐音量
+100204,lobby_setting_sound_effect,효과음,Sound Effect,音效
+100205,lobby_setting_sound_effect_volume,효과음 크기 조절,Change The SE Volume,调整音效音量
+100206,lobby_setting_visual,시각 효과,Visual Effect,视觉效果
+100207,lobby_setting_visual_normal_vision,일반 색상,Normal Vision,正常视觉
+100208,lobby_setting_visual_reduce_effect,시각 효과 감소,Reduce Visual Effect,减小视觉效果
+100209,lobby_setting_visual_protanopla,적녹 색맹,Protanopla (red-green blindness),红绿色盲
+100210,lobby_setting_visual_deuteranopla,녹 색맹,Deuteranopla (green blindness),绿色盲
+100211,lobby_setting_visual_tritanopla,청 색맹,Tritanopla (blue blindness),蓝色盲
+100212,lobby_setting_gameplay,게임 설정,Game Setting,游戏设置
+100213,lobby_setting_gameplay_synchronize,음악 동기화,Synchronize Sound,声音同步
+100214,lobby_setting_gameplay_controller_layout_a,조종 방식 A,Control Layout A,控制模式A
+100215,lobby_setting_gameplay_controller_layout_b,조종 방식 B,Control Layout B,控制模式B
+100216,lobby_setting_language,언어,Language,语言
+100217,lobby_setting_language_korean,한국어,한국어,한국어
+100218,lobby_setting_language_english,English,English,English
+100219,lobby_setting_language_chinese,中文,中文,中文
+100300,lobby_market,마켓 공유,Market,市场
+101000,ingame_ui_life,목숨,Life,生命
+101001,ingame_ui_bomb,폭탄,Bomb,爆弹
+101002,ingame_ui_score,점수,Score,分数
+101003,ingame_popup_stop_pause,일시정지,Pause,暂停
+101004,ingame_popup_stop_resume,재시작,Resume,继续
+101005,ingame_popup_stop_restart,처음부터 다시시작,Restart,重新开始
+101006,ingame_popup_stop_lobby,포기하고 로비로 나가기,Back to Lobby,回到界面
+101007,ingame_popup_stop_volume,소리설정,Sound Setting,声音设置
+101008,ingame_popup_stop_volume_bgm,배경음악 크기 조절,Change The BGM Volume,调整背景音音量
+101009,ingame_popup_stop_volume_effect,효과음 크기 조절,Change The SE Volume,调整音效音量
+101010,ingame_popup_victory,승리하셨습니다!,Victory!,胜利！
+101011,ingame_popup_gameover,패배하셨습니다.,Game Over.,失败。

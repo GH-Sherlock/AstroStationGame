@@ -1,0 +1,7 @@
+[
+    {"id":"1000","sound_key":"astro_opening","sound_bgm_name":"Astro Adventure(Openning)","sound_bgm_artist":":Poin7less","sound_bgm_difficulty":"none","sound_bgm_bpm":"190","sound_bgm_bar_amount":"55","sound_bgm_note":"4","sound_bgm_beat":"4"},
+    {"id":"1001","sound_key":"astro_ending","sound_bgm_name":"Astro Adventure(Ending)","sound_bgm_artist":":Poin7less","sound_bgm_difficulty":"none","sound_bgm_bpm":"190","sound_bgm_bar_amount":"78","sound_bgm_note":"4","sound_bgm_beat":"4"},
+    {"id":"1002","sound_key":"astro_main","sound_bgm_name":"The Journey","sound_bgm_artist":":Poin7less","sound_bgm_difficulty":"none","sound_bgm_bpm":"60","sound_bgm_bar_amount":"60","sound_bgm_note":"4","sound_bgm_beat":"4"},
+    {"id":"1003","sound_key":"astro_hard","sound_bgm_name":"WHITESPACE","sound_bgm_artist":":Poin7less","sound_bgm_difficulty":"hard","sound_bgm_bpm":"175","sound_bgm_bar_amount":"25","sound_bgm_note":"4","sound_bgm_beat":"4"},
+    {"id":"1004","sound_key":"astro_easy","sound_bgm_name":"Parallel Universe","sound_bgm_artist":":Poin7less","sound_bgm_difficulty":"easy","sound_bgm_bpm":"175","sound_bgm_bar_amount":"48","sound_bgm_note":"4","sound_bgm_beat":"4"}
+]
